@@ -54,3 +54,10 @@ pids
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+
+
+
+git remote add origin https://github.com/Shahriyor1998A/RabbitMQ.git
+git branch -M main
+git push -u origin main
